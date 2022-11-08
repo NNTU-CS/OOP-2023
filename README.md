@@ -2,6 +2,9 @@
 
 ## Курсовая работа по ООП-2022
 
+<img src="https://img.shields.io/github/commit-activity/m/ashtanyuk/OOP-Themes-2022?color=lime&style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/ashtanyuk/OOP-Themes-2022?color=darkgreen&style=for-the-badge">
+
 ### Основные даты
 
 - 1 ноября: выбор темы

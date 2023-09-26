@@ -1,9 +1,7 @@
-# OOP-Themes-2023
-
 ## Курсовая работа по ООП-2023
 
-<img src="https://img.shields.io/github/commit-activity/m/ashtanyuk/OOP-Themes-2023?color=lime&style=for-the-badge">
-<img src="https://img.shields.io/github/last-commit/ashtanyuk/OOP-Themes-2023?color=darkgreen&style=for-the-badge">
+<img src="https://img.shields.io/github/commit-activity/m/ashtanyuk/OOP-2023?color=lime&style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/ashtanyuk/OOP-2023?color=darkgreen&style=for-the-badge">
 
 ### Основные даты
 
